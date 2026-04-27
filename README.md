@@ -47,15 +47,3 @@ Open http://localhost:8501 in your browser.
 ```bash
 python complexity_analysis.py
 ```
-
----
-
-## Report Figures (auto-generated in plots/ folder)
-
-| File                 | Used In Report Section            |
-| -------------------- | --------------------------------- |
-| model_comparison.png | Section 8.1 — Results             |
-| confusion_matrix.png | Section 8.1 — Results             |
-| roc_curve.png        | Section 8.1 — Results             |
-| time_complexity.png  | Section 8.2 — Complexity Analysis |
-| memory_usage.png     | Section 8.2 — Complexity Analysis |
